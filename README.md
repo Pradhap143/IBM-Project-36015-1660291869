@@ -15,10 +15,10 @@ Team member : Saravana Kumar
 Team member : Pradhap
 
 # Work Status:
-  4 Assignment - Done
-  
+  4 Assignments - Done
+  Project planning - Done
   Final Deliverable / Application Building - Done
   Final Delivarable / Model Building - Done
   Final Deliverable / Collection of data - Done
   Final Deliverable / Data Preprocessing - Done
-  
+  Project development phase(Sprint 1 & 2) - Done
